@@ -1,0 +1,6 @@
+
+
+1.http://localhost/php/yyw998_svn/index.html?m=export&c=yueduxing&a=get_book_id
+2.http://localhost/php/yyw998_svn/index.html?m=export&c=yueduxing&a=get_book_info&bookid=267
+3.http://localhost/php/yyw998_svn/index.html?m=export&c=yueduxing&a=get_chapter_info&bookid=267
+4.http://localhost/php/yyw998_svn/index.html?m=export&c=yueduxing&a=get_chapter_info&chapterid=8883
