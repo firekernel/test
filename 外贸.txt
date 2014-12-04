@@ -1,0 +1,129 @@
+1.开发信
+整合FB TW GOOGLE进行登录，你懂的了。
+另外，抓长尾关键词。
+
+
+去大型的社交网站上做推广，譬如 Linkedin 上的各个外贸小组，上面有很多外商寻找中国人合作，机会还是比较多的。SEO是肯定的，可以去yahoo answer等问答平台做外链，顺便扩散信息。还可以google一些当地的agency，直接联系这些采购公司，有很多外国采购agency会帮当地的公司找发展中国家外包做产品。
+
+
+渠道：
+1.SEO
+2.EDM
+3.Socical commmunication （linkin外贸小组）
+4.yahoo  answer
+5.展会、论坛、国外同行业协会交流
+6.外贸网站平台：现在国内主要用的电商平台是阿里巴巴，环球，中国制造等！
+如果是话题类，女性类，常规大众消费类产品，选择社交是一个低成本的推广渠道。专业类，去视频平台和商务圈交友平台，比较合适。B2B平台，适合土豪。
+
+
+这样的网站很多。 中国做的最好的是阿里巴巴，中国制造，环球资源，环球市场，托马斯等等。国外有tradekey，EC21等。
+
+要根据自己的企业选择合适的外贸平台，比如快速消费品低价值易损耗的商品，mp3手机一类的，可以选择阿里巴巴，ebay等，前两个目前已经在线支付，类似于淘宝支付宝，方便中小企业开展外贸业务。一些大型机械类产品，或者是比较专业的特定商品，可以考虑阿里巴巴，环球市场，托马斯等等，一般这样的网站起到的作用，宣传大于实质订单。外贸行业的王道依然会是展会，代理。
+
+其实，现在阿里巴巴做的太大，太杂，如果你是做soho的话，可以考虑开一个个人账户，毕竟你可以通过这个账户找到很多客户资源。如果你是企业，全仅当作是企业宣传网站吧。
+
+另外，如果你的行业比较特殊的话，你可以去购买特定的海关出口数据，虽说目前国内的海关数据有一点儿水分，但是客户报关的信息还是比较准备的，拿到客户名称，你就可以百度，Google客户联系方式。这不为是一个得到客户的好途径。
+
+
+
+
+1.企业定位明确，与竞争对手差异化进行竞争。
+2.培养一部分种子客户，作为核心用户培养。
+3.通过对案例、事件、新闻进行整合营销，提高品牌知名度。
+4.其他的就是注册一些分类平台，第三方平台，行业垂直平台等等，做免费信息的大面积覆盖，提高信息曝光率。
+5.完善售后服务及反馈体系，以口碑打造品牌；
+6.完善内容，及用户体验的测试，可以局部进行小规模测试，并且做内容填充。切记Bug都没有解决急于上线。用户体验极差！~
+7.商品录入的时候做好关键词组合SEO，提高关键词曝光率。
+8.做好上线文案策划，在初期进行网站的BD合作，提高网站的相应权重等等；
+9.前期准备好之后进行中期的活动策划，数量不在多，要提高质量，与影响力。切记噱头足，对用户没有实质价值得东西。
+10.利用好所有免费线上线下推广渠道，包括新媒体，微平台，微店营销！
+以上，纯属龙行君个人总结！~与各位共勉！~
+
+
+
+现在国内主要用的电商平台是阿里巴巴，环球，中国制造等！
+
+
+
+
+
+1.你们是多产品系，因此为每个子产品提供比较充实内容，具有一定相关信息的页面是有必要的。
+2.外链建设是有必要的，但相对以前重要性大大下降了，要重视量，不如提高质上。很多时候我已经不太愿意去交换链接了，我更原因花钱发带链接的新闻稿，以及被转载的二次传播，还有就是一些会被二次转发的病毒营销的公关稿或文章。以及只和比较优质的同行业网站交换几个链接。
+3.保持内容的更新，包括单页面，有的网站是通过直接写入代码里的评论，有的是通过新闻保持征战更新，当然内容最好具有一定关联度，还是有用的。
+4.还有就是做长尾，当然现在对无关关键词堆砌或聚合打击还是比较严重，一定是有关的，有内容的合理的产品化，并持续更新内容。比如这种：Brands at Zappos 这种品牌的还好，关键词ABC的索引罗列多数网站已经不使用了，风险较大，但依然会有其他合理的方式：Iron Ore Lumps, Iron Ore Lumps Suppliers & Iron Ore Lumps Wholesalers At TradeKey.com
+Related Searches: Iron Ore, Iron Ore 63.5, Iron Ore Fines, Hematite Iron Ore, Iron Ore Rock, Iron Ore Mineral, Iron Ore Producers, Fe 63.5% Iron Ore, High Quality Iron Ore, Iron Ore Crusher
+把有关系的关键词合理的分配到有关联的页面。
+5.合理的使用nofollow标签，如果你的网站较大较杂，可以一定程度的提高蜘蛛抓取你内容的效率，当你更愿意被搜索引擎所索引的内容都能及时的被收录，自然更有机会获得排名，无收录自然无排名。
+6.网站结构扁平化，其实说到底还是提高抓取效率，其次也让真正的访问用户更好的找到内容，从而减少跳出率，而良好的用户反馈数据（比如较低的跳出率，较多的访问次数和深度等）有利于提高你的排名，哈哈，目前这技术已经很普遍了，无论百度和谷歌都很容易监控到这些数据，并形成依据。
+7.可以结合facebook和推特之类的社交网站一起顺带做做，不一定仅仅为了seo，虽然对seo有一定效果，我没去验证，但值得尝试。
+8.如果你们的利润率有保障，转化率也不错，可以结合PPC一起做，单纯的SEO是一个长期过程，而SEO和PPC一起做，能更好的符合市场覆盖。
+
+外贸企业seo，就是英文站谷歌的优化，包括yahoo，bing.ask等还在搜索引擎
+
+
+1.问答推广。不仅有yahoo！answer， 还有 WikiAnswers-The Q&A wiki。yahoo answer将账户分为多个级别，L1账户积分0-249这样插入的链接是无效的；L2积分250-999好像，L2以上可以在答案和资源来源里插入有效链接。级别几分越高该yahoo answer的账户获得权限就越多越大！
+2.Linkin
+
+
+
+
+要做外贸SEO，你需要有外贸SEO资源站点，这里是一些可用于外贸SEO的英文免费目录。这些英文免费目录可帮你增加网站的外链，提高网站权重；而且下列英文免费目录涵盖范围比较广，适合很多类型的网站。
+ 
+http://www.charolabap.com/
+http://www.datasoftsystem.com/
+http://www.directorystop.info/
+http://directory.ebali.web.id/
+http://dir32.com/
+http://www.eatdrinkfeelgood.org/
+http://www.ebba.ws/
+http://www.enomal.com/
+http://etup.org/
+http://www.freshprlinks.com/
+http://www.geanina.info/
+http://www.glawinfo.com/
+http://www.pobobo.com
+http://gotartans.com/
+http://www.happydirectory.info/
+http://www.hifupower.com/
+http://www.hyperdirectory.net/
+http://www.instantadsenseempire.org/
+http://www.internethow.com/
+http://justintroutman.org/
+http://www.linkconnection.info/
+http://www.magellan.cc/
+http://myriadwebs.net/
+http://www.Nwal.net
+http://www.njmusicsociety.org/
+http://www.ohlibs.org/
+http://www.panaonline.us/
+http://www.primotours.com/
+http://www.qxiu.net/
+http://www.rankdir.info/
+http://www.submitlink.com.ar/
+http://www.theretailaxis.com/
+http://www.thewebsiteassistant.com/
+http://www.uustuff.com/
+http://www.vlig.org/
+http://www.web4link.com/
+http://webdirectory.meelink.com/
+http://www.websitejoint.com/
+http://xeem.info/directory/
+http://www.yswv.org/
+http://www.dakotablogs.com/
+http://www.gainweb.org/
+http://z0p.com/
+http://www.teacherslounge.info/
+ 
+希望上述这些英文免费目录对做外贸SEO的朋友有帮助。
+
+
+
+二、外链建设
+　　很多SEO在国内做外链得心应手，但做英文站就会傻眼，一是英文网站环境不熟悉，二是英文水平确实有限，但是有志者事竞成，很多没过级的英文SEO凭借工具依然照做，这里我介绍一些方法：
+　　1、友情连接
+　　对象选择同类或相似网站，做首页或内页链接，但PR不要太低；
+　　2、论坛、博客等等
+　　对象推荐ALEXA排前一千位的相关网站，我做过的比较有效果的有雅虎问答，GOOGLE论坛，YOUTUBE视频博客，都可成为高质量外链，并还能引来多多的流量，但注意不要乱发贴，这个还是要考虑发了有没有人看的问题
+
+
+
